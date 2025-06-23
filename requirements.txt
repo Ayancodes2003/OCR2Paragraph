@@ -4,4 +4,5 @@ networkx
 opencv-python
 sentence-transformers
 torch
-torch-geometric 
+torch-geometric
+pdf2image 
